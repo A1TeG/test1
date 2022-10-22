@@ -102,7 +102,7 @@ nav ul li a:hover {
 }
 
 .mainbg {
-  background-image: url(/images/mainbg.jpg);
+  background-image: url(images/mainbg.jpg);
   background-size: cover;
   height: 707px;
   padding-top: 194px;
@@ -261,7 +261,7 @@ h1 {
 }
 
 .img-slider {
-  background-image: url(/images/slider_photo.png);
+  background-image: url(images/slider_photo.png);
   width: 679px;
   height: 482px;
   margin-top: 53px;
@@ -311,7 +311,7 @@ h1 {
   margin: 0 auto;
   width: 817px;
   height: 434px;
-  background-image: url(/images/image\ 6.jpg);
+  background-image: url(images/image\ 6.jpg);
 }
 
 .video-overlay {
@@ -340,7 +340,7 @@ h1 {
   height: 28px;
   position: absolute;
   margin: 29px 29px 28px 28px;
-  background-image: url(/images/Polygon.png);
+  background-image: url(images/Polygon.png);
   background-size: 100% 100%;
 }
 
@@ -465,19 +465,19 @@ h1 {
 .order__item1 {
   width: 392px;
   height: 421px;
-  background-image: url(/images/image1.jpg);
+  background-image: url(images/image1.jpg);
 }
 
 .order__item2 {
   width: 392px;
   height: 421px;
-  background-image: url(/images/image2.jpg);
+  background-image: url(images/image2.jpg);
 }
 
 .order__item3 {
   width: 392px;
   height: 421px;
-  background-image: url(/images/image3.jpg);
+  background-image: url(images/image3.jpg);
 }
 
 .order__textbox {
@@ -542,7 +542,7 @@ h1 {
 .list-request_wrap {
   margin-left: -91.5px;
   margin-bottom: 322px;
-  background-image: url(/images/bgrequest.png);
+  background-image: url(images/bgrequest.png);
   width: 703px;
   height: 598px;
 }
@@ -655,7 +655,7 @@ h1 {
   width: 72px;
   height: 72px;
   background: #E3B873;
-  background-image: url(/images/pig.svg);
+  background-image: url(images/pig.svg);
   background-position: center;
   background-repeat: no-repeat;
   box-shadow: 0px 10px 20px rgba(237, 192, 120, 0.2);
@@ -677,7 +677,7 @@ h1 {
 
 .section-fantasy {
   position: relative;
-  background-image: url(/images/fantasybg.png);
+  background-image: url(images/fantasybg.png);
   width: 100%;
   height: 864px;
 }
@@ -744,25 +744,25 @@ color: #FFFFFF;
 .photo1 {
   height: 557px;
   margin-top: -41px;
-  background-image: url(/images/photo1.png);
+  background-image: url(images/photo1.png);
 }
 
 .photo2 {
   height: 350px;
   margin-top: 39px;
-  background-image: url(/images/photo2.png);
+  background-image: url(images/photo2.png);
 }
 
 .photo3 {
   height: 275px;
   margin-top: -113px;
-  background-image: url(/images/photo3.png);
+  background-image: url(images/photo3.png);
 }
 
 .photo4 {
   height: 625px;
   margin-top: 37px;
-  background-image: url(/images/photo4.png);
+  background-image: url(images/photo4.png);
 }
 
 .subtext {
@@ -773,7 +773,7 @@ color: #FFFFFF;
 .clients-icon {
   width: 34px; 
   height: 28px;
-  background-image: url(/images/clients-icon.svg);
+  background-image: url(images/clients-icon.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -805,7 +805,7 @@ color: #FFFFFF;
   width: 76px;
   height: 76px;
   border-radius: 50%;
-  background-image: url(/images/client1.png);
+  background-image: url(images/client1.png);
   background-position: center;
   margin-left: 20px;
   margin-right: 23px;
@@ -815,7 +815,7 @@ color: #FFFFFF;
   width: 76px;
   height: 76px;
   border-radius: 50%;
-  background-image: url(/images/client2.png);
+  background-image: url(images/client2.png);
   background-position: center;
   margin-left: 20px;
   margin-right: 23px;
@@ -825,7 +825,7 @@ color: #FFFFFF;
   width: 76px;
   height: 76px;
   border-radius: 50%;
-  background-image: url(/images/client3.png);
+  background-image: url(images/client3.png);
   background-position: center;
   margin-left: 20px;
   margin-right: 23px;
@@ -859,7 +859,7 @@ color: #FFFFFF;
   width: 32px;
   height: 32px;
   margin: auto 15px;
-  background-image: url(/images/sqare-icon.svg);
+  background-image: url(images/sqare-icon.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -886,7 +886,7 @@ color: #FFFFFF;
   width: 32px;
   height: 32px;
   margin: auto 15px;
-  background-image: url(/images/time-icon.svg);
+  background-image: url(images/time-icon.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -900,7 +900,7 @@ color: #FFFFFF;
   height: 777px;
   margin-top: -397px;
   opacity: 1;
-  background-image: url(/images/Frame.svg);
+  background-image: url(images/Frame.svg);
   background-position:bottom;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -913,7 +913,7 @@ color: #FFFFFF;
 
 .section-map {
   position: relative;
-  background-image: url(/images/mapbg.png);
+  background-image: url(images/mapbg.png);
   min-width: 1440px;
   height: 1177px;
   margin-top: -222px;
@@ -1025,7 +1025,7 @@ color: #FFFFFF;
   height: 28px;
   background: #E3B873;
   border-radius: 50%;
-  background-image: url(/images/mail.svg);
+  background-image: url(images/mail.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -1035,7 +1035,7 @@ color: #FFFFFF;
   height: 28px;
   background: #E3B873;
   border-radius: 50%;
-  background-image: url(/images/insta.svg);
+  background-image: url(images/insta.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -1045,7 +1045,7 @@ color: #FFFFFF;
   margin-top: 40px;
   width: 925px;
   height: 465px;
-  background-image: url(/images/map.png);
+  background-image: url(images/map.png);
   background-position: center;
 }
 
